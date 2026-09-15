@@ -2079,7 +2079,7 @@ class _PosTerminalScreenState extends State<PosTerminalScreen> {
                                             top: 12,
                                             left: 12,
                                             child: _buildCameraBadge(
-                                                'CAM 01 - IN GATE WAY kidut',
+                                                'CAM 01 - IN GATE gfdffgg',
                                                 kBluePrimary),
                                           ),
                                           Positioned(
